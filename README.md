@@ -1,4 +1,6 @@
+# EMERGENCY VEHICLE CLASSIFICATION
 
+## Classes: [Normal, Emergency]
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.11%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/beersk1/Emergency_Vehicle_Classification)
