@@ -22,10 +22,6 @@ image = st.file_uploader("")
 predict_bt = st.button('Predict')
 
 
-# id
-# AKIAXD7Y37IDU4IA2XR7
-# key
-# lIENMF0V630oz4r06GdNdtyyNfhmdV+ug5+0nfnt
 
 
 
