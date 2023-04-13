@@ -6,3 +6,4 @@ joblib
 tensorflow
 keras
 h5py
+streamlit-lottie==0.0.3
