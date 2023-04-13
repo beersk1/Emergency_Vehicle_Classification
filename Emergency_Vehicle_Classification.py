@@ -8,7 +8,6 @@ import tensorflow
 import keras
 from keras.models import load_model
 from tensorflow.keras.utils import load_img, img_to_array
-from secret import access_key, secret_access_key
 import requests
 from streamlit_lottie import st_lottie_spinner
 
