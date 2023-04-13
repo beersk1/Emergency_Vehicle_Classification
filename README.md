@@ -138,7 +138,7 @@ To deploy this project on streamlit share, follow these steps:
 
 ## App deployed on Streamlit
 
-![Streamlit GIF](assets/gif_streamlit.gif)
+![Streamlit GIF](assets/streamlit_gif.gif)
 
 Video to gif [tool](https://ezgif.com/)
 
