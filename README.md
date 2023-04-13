@@ -3,10 +3,9 @@
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.11%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/beersk1/Emergency_Vehicle_Classification)
-![GitHub repo size](https://img.shields.io/github/repo-size/beersk1/Emergency_Vehicle_Classification)
-![Type of Model](https://img.shields.io/badge/CNN-red)
+![GitHub repo size](https://img.shields.io/badge/Repo%20Size-19.4%20MB-blue)
+![Type of Model](https://img.shields.io/badge/Model%20Used-CNN-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R](https://colab.research.google.com/drive/1_ETi9LN3365WHMoJJRmJIrjhch6wyhJu?usp=sharing)) -->
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beersk1-emergency-vehic-emergency-vehicle-classification-o9nkbz.streamlit.app/)
 
 ## Authors
@@ -19,7 +18,7 @@
   - [Data source](#data-source)
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
-  - [Data Augmentation](#data-augemntation)
+  - [Data Augmentation](#data-augmentation)
   - [Improvements](#limitation-and-what-can-be-improved)
   - [Explore the notebook](#explore-the-notebook)
   - [Deployment on streamlit](#deployment-on-streamlit)
